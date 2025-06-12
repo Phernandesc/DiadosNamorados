@@ -1,1 +1,1 @@
-dias dos namorados
+git reset --soft HEAD~1
